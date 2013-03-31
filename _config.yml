@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://pizzabad.github.com
-title: 小宝市内购
-subtitle: hello
+url: http://pizzabadboy.github.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: http://google.com/search
 description:
